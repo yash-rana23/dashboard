@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.profile{
+ 
+ font-family: 'Roboto Slab', serif;
+
+}
